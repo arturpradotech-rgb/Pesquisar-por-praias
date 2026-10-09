@@ -1,0 +1,6 @@
+{
+  "name": "Onde tem o Sol - Guia Litoral saindo de Santo André",
+  "description": "Guia solar inteligente do litoral brasileiro partindo de Santo André - SP. Rotas, trânsito na serra, balneabilidade CETESB, clima e praias ensolaradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
